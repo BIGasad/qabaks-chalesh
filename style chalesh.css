@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: Yekan Bakh;
+}
+
+a {
+	text-decoration:  none !important;
+}
+
+
+/* mio mio chalesh AKS */
+
+.chng-font h1 {
+	font-family: Creampuff;
+	color: #97009F;
+} 
+
+.asadd {
+	border-radius: 30px;
+}
+.asad {
+	border: 25px solid #1F1306;
+	transition: 0.5s;
+}
+.asad:hover {
+	background-color: #8B5A26;
+}
+
+
+
+.asadd2 {
+	border-radius: 30px;
+}
+.asad2 {
+	border: 25px solid #1F1306;
+	transition: 0.5s;
+}
+.asad2:hover {
+	background-color: #8B5A26;
+}
+
+
+.bigasad {
+	border: 50px solid #513412;
+}
+.bigasad:hover {
+	background-color: #20400F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
